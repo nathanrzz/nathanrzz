@@ -33,8 +33,8 @@
 ##
 
 <div>
-  <a href="www.linkedin.com/in/nathan-rezende-b9143426b">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+  <a href="https://https://www.linkedin.com/in/nathan-rezende-b9143426b/"> 
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
   </a>
   
   <a href = "mailto:nthrezende@gmail.com">
